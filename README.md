@@ -1,5 +1,4 @@
 # Telegram-Osint
-# Telegram OSINT Tool
 
 ## Overview
 This tool extracts OSINT (Open Source Intelligence) data from Telegram, including user details, messages, sentiment analysis, group members, and keyword-based message searches. It can also extract emails and phone numbers from messages and export the collected data.
