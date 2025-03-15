@@ -1,0 +1,6 @@
+telethon
+textblob
+asyncio
+re
+csv
+json
